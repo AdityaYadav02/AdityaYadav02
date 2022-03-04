@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Data Science, Machine Learning
+- 🔭 I’m currently working on Data Science, Machine Learning, Big Data
 - 🌱 I’m always learning tools and technology
 - 👯 I’m looking to collaborate on Python, Data Science, Big Data and Devops projects
 - 🤔 I’m looking for Data Science, Machine Learning, deep Learning, NLP, Python, Java and MLOPS
