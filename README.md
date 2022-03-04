@@ -12,6 +12,6 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AdityaYadav02&theme=highcontrast&show_icons=true&count_private=true)
 
-// README.md
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaYadav02)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaYadav02&theme=highcontrast&show_icons=true)
 
