@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Data Science, Machine Learning, Big Data
 - 🌱 I’m always learning tools and technology
 - 👯 I’m looking to collaborate on Python, Data Science, Big Data and Devops projects
-- 🤔 I’m looking for Data Science, Machine Learning, deep Learning, NLP, Python, Java and MLOPS
+- 🤔 I’m looking for Data Science, Machine Learning, deep Learning, NLP, Python, Big Data, Java and MLOPS opportunities
 - 💬 Ask me about  Python, Java, SQL, Data Science, AI, Big Data, AWS
 - 📫 How to reach me: mail me @ yadavaditya07@gmail.com
 - 😄 Pronouns: He/His
