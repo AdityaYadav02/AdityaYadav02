@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello folks! 👋
 
-![](https://komarev.com/ghpvc/?username=AdityaYadav02&theme=highcontrast)
+![](https://komarev.com/ghpvc/?username=AdityaYadav02&theme=highcontrast&style=for-the-badge)
 
 
 - 🔭 I’m currently working on Data Science, Machine Learning, Big Data
