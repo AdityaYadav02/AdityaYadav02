@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**AdityaYadav02/AdityaYadav02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Data Science, Machine Learning
 - 🌱 I’m currently learning 
@@ -15,4 +11,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I would like to do Cooking, Exercise, Help Someone, Learn New Skills and social work in free time.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AdityaYadav02&theme=highcontrast&show_icons=true&count_private=true)
--->
+
