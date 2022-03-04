@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=AdityaYadav02&theme=highcontrast)
+
 
 - 🔭 I’m currently working on Data Science, Machine Learning, Big Data
 - 🌱 I’m always learning tools and technology
