@@ -8,7 +8,7 @@
 - 💬 Ask me about  Python, Java, SQL, Data Science, AI, Big Data, AWS
 - 📫 How to reach me: mail me @ yadavaditya07@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I would like to do Cooking, Exercise, Help Someone, Learn New Skills and social work in free time.
+- ⚡ Fun fact: I would like to do Exercise, Help Someone, Learn New Skills and social work in free time.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AdityaYadav02&theme=highcontrast&show_icons=true&count_private=true)
 
