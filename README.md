@@ -17,3 +17,12 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaYadav02&theme=highcontrast&show_icons=true)
 
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AdityaYadav02&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+🔧 Technologies & Tools:
+
+
+Follow Me:
+
+
